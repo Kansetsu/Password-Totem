@@ -8,8 +8,8 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 ## Sumário 📒: 
 
 - [Proposta](#proposta-)
-- [Screenshots](#screenshots-)
 - [Tecnologias e Inspirações](#tecnologias-e-inspirações-)
+- [Screenshots](#screenshots-)
 
 
 
