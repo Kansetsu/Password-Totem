@@ -2,6 +2,9 @@
 
 Um gerenciador de filas baseado em prioridades de senha e geração de relatórios. 
 
+![image](https://user-images.githubusercontent.com/48100276/194646976-2ac7a568-87c0-45b9-a65f-c95d20d7716e.png)
+
+
 ## Sumário 📒: 
 
 - [Proposta](#proposta-)
