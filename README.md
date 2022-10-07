@@ -9,7 +9,7 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 
 - [Proposta](#proposta-)
 - [Screenshots](#screenshots-)
-
+- [Tecnologias e Inspirações](#tecnologias-e-inspirações-)
 
 
 
@@ -50,10 +50,15 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
     atendimento poderá mudar.
     
     
-    
+### Tecnologias e Inspirações 🌎: 
+
+- Utilizando ReactJS;
+- Utilizado o Canva para as artes;
+- Botões achados no Codepen: [Yuhomyan](https://codepen.io/yuhomyan/pen/OJMejWJ).
+
  ### Screenshots 🖼:
+ 
  
  ![image](https://user-images.githubusercontent.com/48100276/194645649-0062d3f8-04a0-41d3-9c8f-c55034f3d5cf.png)
 
- 
-      
+### **[⬆ VOLTAR AO SUMÁRIO](#sumário-)**
