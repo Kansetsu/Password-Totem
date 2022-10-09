@@ -8,8 +8,8 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 ## Sumário 📒: 
 
 - [Proposta](#proposta-)
-- [Screenshots](#screenshots-)
 - [Tecnologias e Inspirações](#tecnologias-e-inspirações-)
+- [Screenshots](#screenshots-)
 
 
 
@@ -56,9 +56,9 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 - Utilizado o Canva para as artes;
 - Botões achados no Codepen: [Yuhomyan](https://codepen.io/yuhomyan/pen/OJMejWJ).
 
- ### Screenshots 🖼:
+### Screenshots 🖼:
  
- 
- ![image](https://user-images.githubusercontent.com/48100276/194645649-0062d3f8-04a0-41d3-9c8f-c55034f3d5cf.png)
+
+![image](https://user-images.githubusercontent.com/48100276/194675097-eddc97df-6e4a-42fb-9906-49cee316da0d.png)
 
 ### **[⬆ VOLTAR AO SUMÁRIO](#sumário-)**
