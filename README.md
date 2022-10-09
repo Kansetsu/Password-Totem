@@ -56,7 +56,7 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 - Utilizado o Canva para as artes;
 - Botões achados no Codepen: [Yuhomyan](https://codepen.io/yuhomyan/pen/OJMejWJ).
 
- ### Screenshots 🖼:
+### Screenshots 🖼:
  
 
 ![image](https://user-images.githubusercontent.com/48100276/194675097-eddc97df-6e4a-42fb-9906-49cee316da0d.png)
