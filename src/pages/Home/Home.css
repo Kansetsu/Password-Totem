@@ -1,20 +1,25 @@
+.home-section {
+    overflow: hidden;
+}
 .home {
     background: white;
     height: 100vh;
+    overflow: hidden;
+
 }
 
 .logo {
     position: relative;
     bottom: 687px;
+    overflow: hidden;
+
 }
 
 .buttons {
     z-index: 1;
     position: relative;
-    bottom: 454px;
-    left: 215px;
+    bottom: 463px;
+    left: 147px;
 }
 
-h1 {
-    margin: 0;
-}
+

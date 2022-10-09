@@ -8,7 +8,6 @@ function Totem() {
             <div className="illustration">
                 <img className='totem-img' src={totemImg} alt='totem-img'/>
                 <div className="totem"></div>
-
             </div>
         </>
     )

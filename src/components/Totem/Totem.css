@@ -1,62 +1,21 @@
 .illustration {
     position: absolute;
-    top: calc(71% - 363px);
+    top: 237px;
     left: 80%;
-    width: 504px;
-    height: 1080px;
+    height: 485px;
+    overflow: hidden;
+    transition: ease-in-out 0.5s;
+    border-radius: 30px;
 }
 
 .totem-img {
-    height: 60%;
+    height: 500px;
+    overflow: hidden;
 }
 
-.illustration:hover{
-    color: rgb(88 199 250 / 100%);
-    transition: color 1s;
+.illustration:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(137, 69, 255);
+    transform: translateY(-0.25em);
+    transition: ease-in-out 0.5s;
 }
 
-.illustration:before, .illustration:after {
-    animation: none;
-    opacity: 0;
-}
-
-.illustration::before {
-    content: "";
-    width: 104%;
-    height: 102%;
-    border-radius: 8px;
-    background-image: linear-gradient(var(--rotate), #5ddcff, #3c67e3 43%, #4e00c2);
-    position: absolute;
-    z-index: -1;
-    top: -1%;
-    left: -2%;
-    animation: spin 2.5s linear infinite;
-}
-
-.illustration::after {
-    position: absolute;
-    content: "";
-    top: calc(var(--card-height) / 6);
-    left: 0;
-    right: 0;
-    z-index: -1;
-    height: 100%;
-    width: 100%;
-    margin: 0 auto;
-    transform: scale(0.8);
-    filter: blur(calc(var(--card-height) / 6));
-    background-image: linear-gradient(var(--rotate), #5ddcff, #3c67e3 43%, #4e00c2);
-    opacity: 1;
-    transition: opacity .5s;
-    animation: spin 2.5s linear infinite;
-}
-
-@keyframes spin {
-    0% {
-        --rotate: 0deg;
-    }
-
-    100% {
-        --rotate: 360deg;
-    }
-}
