@@ -8,10 +8,9 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
 ## Sumário 📒: 
 
 - [Proposta](#proposta-)
+- [Inicialização do Projeto](#inicialiação-do-projeto-)
 - [Tecnologias e Inspirações](#tecnologias-e-inspirações-)
 - [Screenshots](#screenshots-)
-
-
 
 ### Proposta 📝: 
 
@@ -49,7 +48,23 @@ Um gerenciador de filas baseado em prioridades de senha e geração de relatóri
     - Relatório do TM, que devido à variação aleatória no
     atendimento poderá mudar.
     
-    
+### Inicialiação do projeto 📃:
+
+#### Instale as dependências antes de iniciar a aplicação.
+
+```javascript
+// Você pode usar o npm ou o yarn, fique à vontade.
+
+npm install || yarn 
+```
+#### Com tudo instalado pode iniciar a aplicação :) : 
+
+```javascript
+// Você pode usar o npm ou o yarn, fique à vontade.
+
+npm start || yarn start
+```
+
 ### Tecnologias e Inspirações 🌎: 
 
 - Utilizando ReactJS;
