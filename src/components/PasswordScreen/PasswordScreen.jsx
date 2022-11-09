@@ -1,8 +1,14 @@
 import './PasswordScreen.css';
 
 function PasswordScreen() {
+
+
   return (
-    <div className='screen'></div>
+    <div className='screen'>
+      <div className="title"></div>
+      <div className="title"></div>
+      <div className="title"></div>
+    </div>
   )
 }
 
